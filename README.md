@@ -1,1 +1,3 @@
-# ojs deutschsprachige Entwickler-Mailingliste
+# OJS Entwickler-Mailingliste
+
+
