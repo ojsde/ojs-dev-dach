@@ -2,6 +2,6 @@
 
 | Bericht | Universität/ Institut  : Statd A-Z  |
 | --- |  --- |
-[2019 Halbjahresbericht](berichte/2019-02.md) | CEDIS  Berlin <br> Universitätsbibliothek Heidelberg <>Zentrale Informatik Universität Zürich |
+[2019 Halbjahresbericht](berichte/2019-02.md) | CEDIS  Berlin <br> Universitätsbibliothek Heidelberg <br>Zentrale Informatik Universität Zürich |
 
 
