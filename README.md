@@ -1,2 +1,1 @@
-# ojs-dev-dach
-OJS-Entwickler D-A-CH 
+# ojs deutschsprachige Entwickler-Mailingliste
