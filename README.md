@@ -1,6 +1,6 @@
 # OJS Entwickler-Mailingliste
 
-| Bericht | Universitäten (sortiert nach Stadtnamen) |
+| Bericht | Universitäten (Stadt A-Z) |
 | --- |  --- |
 [2019 Halbjahresbericht](berichte/2019-02.md) | Freie Universität Berlin, Universitätsbibliothek Heidelberg, Universität Zürich |
 
