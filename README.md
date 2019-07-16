@@ -4,5 +4,6 @@
 [2019 Halbjahresbericht](berichte/2019-02.md) 
 
 * CEDIS  Berlin 
-* Universitätsbibliothek Heidelberg * 
+* Universitätsbibliothek Heidelberg
 * Zentrale Informatik, Universität Zürich
+  * sss
