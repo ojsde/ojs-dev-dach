@@ -6,6 +6,6 @@
 
 # Anleitung
 * bei [github](https://github.com/) anmelden.
-* Erstellen Sie einen [Fork](https://github.com/ojsde/ojs-dev-dach/), indem Sie auf Fork klicken.
+* Einn [Fork](https://github.com/ojsde/ojs-dev-dach/) stellen, indem Sie auf Fork klicken.
 * Den aktuellen [Newsletter](https://github.com/ojsde/ojs-dev-dach/tree/master/berichte) bearbeiten
 * [Pull-Request](https://github.com/ojsde/ojs-dev-dach/pulls) erstellen
