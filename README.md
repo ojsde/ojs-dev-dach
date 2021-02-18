@@ -1,8 +1,8 @@
 # OJS Entwickler-Mailingliste
 
-## [2020 Jahresbericht](berichte/2020-01.md) 
-## [2020 Workshop](ws/2020-ws-de-en.tex) 
-## [2019 Halbjahresbericht](berichte/2019-02.md) 
+-  [2020 Jahresbericht](berichte/2020-01.md) 
+-  [2020 Workshop](ws/2020-ws-de-en.tex) 
+- [2019 Halbjahresbericht](berichte/2019-02.md) 
 
 
 
