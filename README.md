@@ -4,8 +4,11 @@
 ## [2020 Workshop](ws/2020-ws-de-en.tex) 
 
 
+---
+
 # Anleitung
-* bei [github](https://github.com/) anmelden.
-* Einn [Fork](https://github.com/ojsde/ojs-dev-dach/) stellen, indem Sie auf Fork klicken.
-* Den aktuellen [Newsletter](https://github.com/ojsde/ojs-dev-dach/tree/master/berichte) bearbeiten
-* [Pull-Request](https://github.com/ojsde/ojs-dev-dach/pulls) erstellen
+
+* Melden Sie im  [github](https://github.com/) an.
+* Stellen Sie ein [Fork](https://github.com/ojsde/ojs-dev-dach/), indem Sie auf Fork klicken.
+* Bearbeiten Sie den aktuellen [Newsletter](https://github.com/ojsde/ojs-dev-dach/tree/master/berichte)
+* Ein [Pull-Request](https://github.com/ojsde/ojs-dev-dach/pulls) erstellen
