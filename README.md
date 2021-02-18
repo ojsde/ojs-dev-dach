@@ -6,7 +6,6 @@
 
 # Anleitung
 * bei [github](https://github.com/) anmelden.
-* Erstellen Sie einen [Fork](https://github.com/ojsde/ojs-dev-dach/), indem Sie auf Fork klicken https://github.com/ojsde/ojs-dev-dach/  
-* Die aktuelle Newsletter bearbeiten https://github.com/Nutzername/ojs-dev-dach/edit/master/berichte/
-* Auf https://github.com/Nutzername/ojs-dev-dach/pulls klicken.
-* PULL-Request erstellen
+* Erstellen Sie einen [Fork](https://github.com/ojsde/ojs-dev-dach/), indem Sie auf Fork klicken.
+* Den aktuellen Newsletter editieren[Newsletter](https://github.com/ojsde/ojs-dev-dach/tree/master/berichte) bearbeiten
+* [PULL-Request](https://github.com/Nutzername/ojs-dev-dach/pulls) erstellen
