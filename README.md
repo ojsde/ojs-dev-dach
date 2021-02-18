@@ -1,4 +1,4 @@
-# OJS-Entwicklungs-Newsletter
+#### OJS-Entwicklungs-Newsletter
 
 -  [2020 Jahresbericht](berichte/2020-01.md) 
 -  [2020 Workshop](ws/2020-ws-de-en.tex) 
@@ -8,7 +8,7 @@
 
 ---
 
-# Anleitung
+#### Anleitung
 
 * Melden Sie im  [github](https://github.com/) an.
 * Stellen Sie ein [Fork](https://github.com/ojsde/ojs-dev-dach/), indem Sie auf Fork klicken.
