@@ -1,4 +1,4 @@
-#### OJS-Entwicklungs-Newsletter
+#### OJS/OMP/OPS Entwicklungs-Newsletter
 
 -  [2020 Jahresbericht](berichte/2020-01.md) 
 -  [2020 Workshop](ws/2020-ws-de-en.tex) 
